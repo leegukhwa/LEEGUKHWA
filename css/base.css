@@ -1,0 +1,7 @@
+/**  base.css **/
+        @font-face { font-family:'Oswald';  src:url("../fonts/Oswald-Regular.ttf"); }
+        body{font-family:Arial, sans-serif; color:#000; background-color:#eee; }
+        a:link, a:visited {color:#000; text-decoration:none;}
+        a:hover, a:focus{color:crimson; text-decoration:none; }
+/** 숨김요소 **/
+        h2,h3,form legend{position:absolute;  left:-9999%;  width:1px; height:1px;  overflow:hidden; font-size:0; line-height:0; }

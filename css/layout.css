@@ -1,0 +1,22 @@
+/** layout.css **/
+        .wrapper{ width:980px; height:inherit; margin:0 auto; background-color:#fff;}
+        .container{ width:940px; height:99.6%; margin:0 auto; background-color:#fff;}
+        
+        #HEADER{ height:148px; }
+        .header_top{ height:98px; position:relative;}
+        #NAV{ height:50px; }
+        
+        #MAIN{ height:335px; }
+        .m2{ float:left; }
+        .m2.m21{ width:690px; }
+        .m2.m22{ width:250px; }
+        
+        #CONTENT{ height:1170px; }
+        .c3{ float:left; }
+        .c3.c31{ width:480px; height:inherit; }
+        .c3.c32{ width:210px; height:inherit; }
+        .c3.c33{ width:250px; height:inherit; }
+        
+        #AD{ height:145px; }
+        #FOOTER{ height:155px; }
+        .footer_top{ height:50px; }
